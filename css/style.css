@@ -319,7 +319,7 @@ button:focus{
 
 .about-section-box{
 	padding: 70px 0px;
-	background: #ffffff url(../images/about-bg.jpg) no-repeat bottom center;
+	background: #ffffff /*url(../images/about-bg.jpg) no-repeat bottom center*/;
 	background-size: cover;
 }
 .about-section-box .img-fluid{
@@ -403,7 +403,7 @@ button:focus{
 	margin: 0px;
 }
 
-.inner-menu-box{}
+/*.inner-menu-box{}*/
 .inner-menu-box .nav-pills .nav-link.active{
 	background: #d65106;
 }
